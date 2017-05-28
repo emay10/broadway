@@ -1,0 +1,50 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+}
+
+.header {
+  background-image: url(./resources/images/background.png));
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
+h1,
+nav,
+.divider
+footer {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+nav {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.divider {
+  background-image: url(./resources/images/background.png);
+}
+
+footer {
+  font-size: 11px;
+  background-color: dimgray;
+}
